@@ -1,30 +1,200 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "4b19"
+    },
+    {
+      "id": "d3cb"
+    },
+    {
+      "id": "6ca7"
+    },
+    {
+      "id": "72fe"
+    },
+    {
+      "id": "a0f7"
+    },
+    {
+      "id": "e119"
+    },
+    {
+      "id": "7343"
+    },
+    {
+      "id": "3202"
+    },
+    {
+      "id": "4f68"
+    },
+    {
+      "id": "3d57"
+    },
+    {
+      "id": "5197"
+    },
+    {
+      "id": "e66b"
+    },
+    {
+      "id": "c719"
+    },
+    {
+      "id": "49a9"
+    },
+    {
+      "id": "e0d1"
+    },
+    {
+      "id": "876f"
+    },
+    {
+      "id": "548c"
+    },
+    {
+      "id": "7b9d"
+    },
+    {
+      "id": "e042",
+      "name": {
+        "isTrusted": true
+      }
+    },
+    {
+      "id": "bc11",
+      "name": {
+        "isTrusted": true
+      }
+    },
+    {
+      "id": "136f",
+      "name": {
+        "isTrusted": true
+      }
+    },
+    {
+      "id": "01cc"
+    },
+    {
+      "id": "b4d1"
+    },
+    {
+      "id": "fb84"
+    },
+    {
+      "id": "4132"
+    },
+    {
+      "id": "f5db"
+    },
+    {
+      "id": "182b"
+    },
+    {
+      "id": "65cf"
+    },
+    {
+      "id": "fefe"
+    },
+    {
+      "id": "7b0a"
+    },
+    {
+      "id": "7cb8"
+    },
+    {
+      "id": "9a99"
+    },
+    {
+      "id": "e4fc"
+    },
+    {
+      "id": "975b"
+    },
+    {
+      "id": "b0f7"
+    },
+    {
+      "id": "5b86"
+    },
+    {
+      "id": "8752"
+    },
+    {
+      "id": "be65"
+    },
+    {
+      "id": "2026"
+    },
+    {
+      "id": "12f7"
+    },
+    {
+      "id": "5ef3"
+    },
+    {
+      "id": "d74b"
+    },
+    {
+      "id": "ee38"
+    },
+    {
+      "id": "6ac4"
+    },
+    {
+      "id": "97bd"
+    },
+    {
+      "id": "6d4f"
+    },
+    {
+      "id": "b99c"
+    },
+    {
+      "id": "58eb"
+    },
+    {
+      "id": "0a46"
+    },
+    {
+      "id": "ac6e"
+    },
+    {
+      "id": "dc5b"
+    },
+    {
+      "id": "7207"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
